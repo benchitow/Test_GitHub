@@ -3,4 +3,5 @@ h1 {
 	font-size: 50px;
 	color : Green;
 	text-align: center;
+	align-self: center;
 }
